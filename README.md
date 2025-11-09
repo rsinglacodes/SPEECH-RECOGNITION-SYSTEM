@@ -58,4 +58,6 @@ Lightweight, multilingual, and easy to deploy — perfect for demos, learning pr
 
 ## OUTPUT
 
+<img width="1118" height="970" alt="Image" src="https://github.com/user-attachments/assets/4ca04e09-c2e6-4102-8141-0caa08824943" />
+<img width="901" height="949" alt="Image" src="https://github.com/user-attachments/assets/276703ae-b4ce-40ad-b014-c34264466b1b" />
 
